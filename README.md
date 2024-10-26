@@ -17,7 +17,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
    Abra o terminal e execute o seguinte comando para clonar o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/vagnnermartins/FTPR-Car-Api-Node-Express.git
    cd seurepositorio
    ```
 
