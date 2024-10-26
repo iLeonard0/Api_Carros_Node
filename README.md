@@ -1,4 +1,4 @@
-```markdown
+
 # API de Carros
 
 Este é um projeto de API RESTful desenvolvido com Node.js e Express para gerenciar uma lista de carros. A API permite adicionar, recuperar e excluir carros, além de suportar a validação de dados.
