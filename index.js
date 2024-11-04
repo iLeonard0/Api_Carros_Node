@@ -270,7 +270,10 @@ app.patch('/car/:id', (req, res) => {
 app.delete('/car/:id', (req, res) => {
     const id = req.params.id;
 
+console.log(carMap.get(id) )
+
     if (carMap.has(id)) {
+        console.log(carMap.get(id) )
         carMap.delete(id);
         res.json({ message: 'Carro deletado com sucesso' });
     } else {
